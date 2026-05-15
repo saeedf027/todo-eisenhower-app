@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May 15 13:01:05 2026
+
+@author: fuji
+"""
+
+kivy==2.3.1
+kivymd==1.1.1
+plyer==2.1

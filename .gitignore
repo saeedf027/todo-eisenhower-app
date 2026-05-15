@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May 15 12:59:45 2026
+
+@author: fuji
+"""
+
+__pycache__/
+*.pyc
+todo.db
+*.spec
+.vscode/
+.idea/
